@@ -24,7 +24,6 @@ The chapters in this notebook contain:
 # Other Contents
 - in the src folder you can find the python scripts I used for the experiment; they are divided into inversion, vae, and utils
 - in the stuff folder you can find the files I used for the inversion, which are described in more detail in the notebook; However, they are not needed for reproducibility purposes, as they "should" load directly from my drive folder (if it doesn't work, feel free to contact)
-- config.json; like for the other files, it is directly loaded through my drive; anyway, it's relatively easy to change the script to load from your modified config.json if you want to change (or even add/remove) some variables, again, feel free to do so!
 - in the notebook you can find a definition section
 
 # Inspirations
